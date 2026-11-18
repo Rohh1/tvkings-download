@@ -6,4 +6,6 @@ Download the latest TV Kings app for Android phones, tablets, Firestick, Fire TV
 
 This link always gives you the newest version.
 
+**Install guide:** https://rohh1.github.io/tvkings-download/
+
 After installing, open TV Kings and sign in with the username and password from your welcome message.
